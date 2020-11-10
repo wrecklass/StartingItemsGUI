@@ -65,8 +65,8 @@ namespace Phedg1Studios {
             static public int profileCount = 3;
             static public int modeCount = 4;
             static public List<string> modeNames = new List<string>() {
-                "Earnt Consumable",
-                "Earnt Persistent",
+                "Earned Consumable",
+                "Earned Persistent",
                 "Free",
                 "Random",
             };
